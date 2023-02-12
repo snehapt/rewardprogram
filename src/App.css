@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background: green;
+}
+
+.App h1 {
+  color: white;
+  margin: 0;
+  padding: 10px;
+}
+
+.table-rewards {
+  margin: auto;
+  border: 1px solid #a8a8a8;
+}
+
+.table-rewards td {
+  border: 1px solid #a8a8a8;
+  padding: 10px;
+}
+
+.table-rewards th {
+  border: 1px solid #bcbcbc;
+  background-color: #ededed;
+  padding: 10px;
+}
+
+.rewards-wrapper {
+  display: flex;
+  background: #fff;
+  padding: 50px 0;
+}
+
+.rewards-wrapper-box {
+  flex-basis: 50%;
+  border-right: 1px solid #a8a8a8;
+}
